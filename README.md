@@ -12,7 +12,7 @@ Um site de e-commerce com catálogo, carrinho de compras, e formulário de check
 
 ## Acesso ao Projeto
 
-Depois de baixado, você pode instalar as dependências do projeto por meio do comando `npm install`. Em seguida, para executar, use `npm start` ou `ng serve`; ele vai estar disponível em [localhost:4200/](http://localhost:4200/).
+Depois de baixado, você pode instalar as dependências do projeto por meio do comando `npm install`. Em seguida, para executar, use `npm start` ou `ng serve`; ele vai estar disponível em [localhost:4200](http://localhost:4200/).
 
 <!-- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. -->
 

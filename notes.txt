@@ -1,0 +1,10 @@
+// https://angular.io/guide/setup-local
+
+ng new my-app  -> Cria o projeto
+
+
+// https://angular.io/cli/generate#component-command
+
+ng generate component my-component  -> Cria um novo componente, com seus arquivos iniciais
+
+Ctrl + Shift + L  -> Vários cursores

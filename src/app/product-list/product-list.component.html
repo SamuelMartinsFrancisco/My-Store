@@ -1,1 +1,26 @@
 <h2> Products </h2>
+
+<!-- https://angular.io/api/common/NgFor -->
+<div *ngFor="let product of products">
+    <h3>
+        <a [title]="product.name + ' details'"
+           [routerLink]="['/products', product.id]"> <!-- https://angular.io/api/router/RouterLink -->
+            {{ product.name }}
+        </a>
+    </h3>
+
+    <!-- https://angular.io/api/common/NgIf -->
+    <p *ngIf="product.description">
+        Description: {{ product.description }}
+    </p>
+
+    <!-- https://angular.io/guide/event-binding -->
+    <button type="button" (click)="share()">
+        Share
+    </button>
+
+    <app-product-alerts
+        [product]="product"
+        (notify)="onNotify()">
+    </app-product-alerts>
+</div>
