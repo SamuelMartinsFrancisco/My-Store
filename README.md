@@ -1,6 +1,5 @@
 # MyStore
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![Badge Versão do Angular CLI](https://img.shields.io/badge/Angular%20CLI-v15.0.0.-blue)
 
 <br>
