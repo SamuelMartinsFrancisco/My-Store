@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/96782173/202766091-0bbb27cf-84c4-47e2-a8f5-778d285df39f.png" width="200px">
 
-Um site de e-commerce com catálogo, carrinho de compras, e formulário de check-out, sendo construído com Angular, a partir da [documentacão](https://angular.io/start); 
+Um site de e-commerce com catálogo, carrinho de compras, e formulário de check-out, construído com Angular, a partir da [documentacão](https://angular.io/start); 
 
 <!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0. -->
 
